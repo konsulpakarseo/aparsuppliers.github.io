@@ -11,11 +11,11 @@
 	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Supplier APAR #1 Indonesia</description>
-	<lastBuildDate>Thu, 15 Apr 2021 09:36:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Apr 2021 05:16:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<generator>https://wordpress.org/?v=5.6.3</generator>
 </channel>
 </rss>
