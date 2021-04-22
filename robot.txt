@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
   
-Sitemap: https://www.apar.suppliers.id/video-sitemap.xml
+Sitemap: https://apar.suppliers.id/video-sitemap.xml
